@@ -61,6 +61,7 @@ header{
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
     margin-bottom: 32px;
+    color: #06686E;
 }
 .section_p{
     font-family: "Kanit", serif;
@@ -73,6 +74,7 @@ header{
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
     margin-bottom: 60px;
+    color: #06686E;
 }
 button{
     background-color: #2A9D8F;
@@ -106,6 +108,7 @@ article{
     text-align: center;
     text-decoration-skip-ink: none;
     padding-bottom: 32px;
+    color: #06686E;
 }
 .article_p{
     font-family: "Kanit", serif;
@@ -116,6 +119,7 @@ article{
     text-align: justified;
     text-decoration-skip-ink: none;
     text-align: justify;
+    color: #06686E;
 }
 /*footer*/
 footer{
